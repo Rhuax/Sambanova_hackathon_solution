@@ -1,0 +1,9 @@
+openai==1.54.4
+graphviz==0.20.3
+plotly==5.18.0
+kaleido==0.1.0.post1
+openpyxl==3.1.5
+requests==2.32.3
+beautifulsoup4==4.12.3
+streamlit==1.40.1
+scrapy==2.12.0
