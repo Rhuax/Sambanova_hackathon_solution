@@ -17,5 +17,7 @@ Starting from a client need and request for a new project the tool calculates:
   - Personnel costs: it scrapes the average annual salary for each role from salary.com and multiplies automatically for the number of people with that role in the team.
   - Non-personnel costs: it estimates the cost based on the LLM knowledge
 - Trello board: given all of the previous outputs it uses the official Trello APIs to automatically create a new board and add cards for each estimated task. Each card has a start date, end date and the role(s) of the people which will do that task as card description.
-
 - 
+**YOUTUBE VIDEO:**
+  
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LtWxXh3y1oU/0.jpg)](https://www.youtube.com/watch?v=LtWxXh3y1oU)
